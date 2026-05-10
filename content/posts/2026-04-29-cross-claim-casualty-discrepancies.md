@@ -33,5 +33,5 @@ We cannot determine the true casualty toll from open sources. Official statement
 
 The task is to document this landscape, not to declare winners. See the geolocation methodology in [our earlier article](/posts/2026-04-22-strike-imagery-geolocation-methodology/) for how to apply the same transparency-through-systematic-doubt approach to casualty claims.
 
-Additional case studies tracking these divergences in real time are published on __TG_PRIMARY_URL__ and __MASTO_PRIMARY_URL__.
+Additional case studies tracking these divergences in real time are published on https://t.me/cit_main_log and https://mastodon.social/@cit_style_watcher.
 

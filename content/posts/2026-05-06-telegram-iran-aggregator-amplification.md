@@ -34,5 +34,5 @@ The above timeline and channel names are [HYPOTHETICAL — DEMO CONTENT] constru
 
 The goal is to document the *structural patterns* of how information amplifies and retracts across platforms, not to track individuals. See earlier articles on [geolocation methodology](/posts/2026-04-22-strike-imagery-geolocation-methodology/) and [casualty claim divergence](/posts/2026-04-29-cross-claim-casualty-discrepancies/) for how systematic transparency about sources—and gaps in sources—can be applied in real time.
 
-Ongoing tracking is shared at __TG_PRIMARY_URL__ and __MASTO_PRIMARY_URL__.
+Ongoing tracking is shared at https://t.me/cit_main_log and https://mastodon.social/@cit_style_watcher.
 

@@ -30,5 +30,5 @@ At each step, state what you cannot verify. Did you have a clear view of the tar
 
 This methodology is incremental: each step narrows uncertainty rather than settling it. The goal is to move from "we do not know where this is" to "we are confident this is location X, with these remaining caveats." No single tool proves a location; confidence builds through converging evidence.
 
-Further articles in this project will apply this framework to specific incidents circulating across __TG_PRIMARY_URL__ and __MASTO_PRIMARY_URL__, with live worked examples.
+Further articles in this project will apply this framework to specific incidents circulating across https://t.me/cit_main_log and https://mastodon.social/@cit_style_watcher, with live worked examples.
 
