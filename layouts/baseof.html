@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; }
+    header { border-bottom: 2px solid #333; padding-bottom: 10px; margin-bottom: 30px; }
+    h1 { margin: 0; }
+    .subtitle { color: #666; margin-top: 5px; }
+    article { margin-bottom: 40px; }
+    article h2 { margin-top: 0; }
+    a { color: #0066cc; }
+    code { background: #f0f0f0; padding: 2px 4px; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ .Site.Title }}</h1>
+    {{ if .Site.Params.description }}<p class="subtitle">{{ .Site.Params.description }}</p>{{ end }}
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+</body>
+</html>

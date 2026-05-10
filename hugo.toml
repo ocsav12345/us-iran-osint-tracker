@@ -1,11 +1,9 @@
 baseURL = "https://ocsav12345.github.io/us-iran-osint-tracker/"
 languageCode = "en-us"
 title = "US-Iran Tensions OSINT Tracker"
-theme = "ananke"
 
 [params]
   description = "Open-source intelligence log on US-Iran tensions — observational, methodology-first."
-  site_logo = ""
 
 [markup.goldmark.renderer]
   unsafe = true
