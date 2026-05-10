@@ -4,7 +4,7 @@ date = 2026-05-06T10:15:00Z
 tags = ["osint", "social-media", "amplification-analysis"]
 +++
 
-On [HYPOTHETICAL — DEMO CONTENT] May 3, 2026 at 11:47 UTC, an unverified claim about a regional incident circulated in a single Mastodon toot at __MASTO_SECONDARY_URL__ with no primary source link. Within 36 hours, the claim had propagated to at least eight Telegram aggregator channels, two Bluesky accounts, and three lower-traffic Twitter/X mirrors. None of the downstream posts added new sourcing.
+On [HYPOTHETICAL — DEMO CONTENT] May 3, 2026 at 11:47 UTC, an unverified claim about a regional incident circulated in a single Mastodon toot at https://mastodon.social/@cit_satellite_log with no primary source link. Within 36 hours, the claim had propagated to at least eight Telegram aggregator channels, two Bluesky accounts, and three lower-traffic Twitter/X mirrors. None of the downstream posts added new sourcing.
 
 This is a case study in how open-source information cascades amplify through structural incentives, not truth-seeking.
 
