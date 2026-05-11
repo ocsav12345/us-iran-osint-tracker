@@ -62,7 +62,7 @@ The Zahedi story is a clean example of how the framework runs. Iranian state med
 - Companion case study: [Damascus 72-Hour Recap](../2026-04-30-damascus-consulate-strike-72-hour-recap/)
 - Related methodology: [Geolocating Strike Footage](../2026-05-01-geolocating-strike-footage-method-notes/)
 - @cit_main_log: https://t.me/cit_main_log
-- @cit_style_watcher on Mastodon: https://mastodon.social/@cit_style_watcher
+- @ocsav34567 on Mastodon: https://mastodon.social/@ocsav34567
 
 ### Public source citations
 

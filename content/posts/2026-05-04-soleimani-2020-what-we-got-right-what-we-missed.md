@@ -55,3 +55,8 @@ A fuller comparative analysis is forthcoming in [the retaliation watch piece](..
 - US Department of Defense statements, January 2020
 - Subsequent CENTCOM injury disclosures
 - Open-source debris photographs published by Iraqi state-affiliated outlets
+---
+
+**Mastodon cross-posts**:
+- News thread: [@true_me_news](https://mastodon.social/@true_me_news)
+- Methodology notes: [@ocsav34567](https://mastodon.social/@ocsav34567)

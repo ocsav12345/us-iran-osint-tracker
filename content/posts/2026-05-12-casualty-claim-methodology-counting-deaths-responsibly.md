@@ -90,7 +90,7 @@ For the broader methodological context see [Cross-Claim Arbitration](../2026-05-
 - Case study: [Damascus 72-Hour Recap](../2026-04-30-damascus-consulate-strike-72-hour-recap/)
 - Case study: [Nevatim Damage Assessment](../2026-05-11-nevatim-airbase-damage-assessment-preliminary/)
 - @cit_main_log: https://t.me/cit_main_log
-- @cit_style_watcher on Mastodon: https://mastodon.social/@cit_style_watcher
+- @true_me_news on Mastodon: https://mastodon.social/@true_me_news
 
 ### Public source citations
 

@@ -64,7 +64,7 @@ Our working assessment of the Damascus annex strike is that the damage pattern â
 - Related methodology: [Geolocating Strike Footage](../2026-05-01-geolocating-strike-footage-method-notes/)
 - Companion case study: [Damascus 72-Hour Recap](../2026-04-30-damascus-consulate-strike-72-hour-recap/)
 - @cit_main_log working notes: https://t.me/cit_main_log
-- Style watcher feed: https://mastodon.social/@cit_style_watcher
+- Style watcher feed: https://mastodon.social/@true_me_news
 
 ### Public source citations
 

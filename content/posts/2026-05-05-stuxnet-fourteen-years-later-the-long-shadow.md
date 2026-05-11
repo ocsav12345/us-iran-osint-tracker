@@ -51,7 +51,7 @@ The current Damascus episode is, by contrast, a kinetic event with rich open-sou
 
 - Companion retrospective: [Looking Back at 2020 Soleimani](../2026-05-04-soleimani-2020-what-we-got-right-what-we-missed/)
 - Related methodology: [Identifying Munition Types](../2026-05-02-identifying-munition-types-from-damage-signatures/)
-- @cit_style_watcher on Mastodon: https://mastodon.social/@cit_style_watcher
+- @ocsav34567 on Mastodon: https://mastodon.social/@ocsav34567
 - @cit_main_log: https://t.me/cit_main_log
 
 ### Public source citations

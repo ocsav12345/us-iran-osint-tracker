@@ -73,3 +73,8 @@ For the live working notes see [@cit_main_log](https://t.me/cit_main_log) and th
 - Reuters, AP, AFP wires
 - IDF spokesman briefings (public)
 - ICAO and Israeli Civil Aviation Authority NOTAMs (public registry)
+---
+
+**Mastodon cross-posts**:
+- News thread: [@true_me_news](https://mastodon.social/@true_me_news)
+- Methodology notes: [@ocsav34567](https://mastodon.social/@ocsav34567)

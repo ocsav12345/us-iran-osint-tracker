@@ -67,3 +67,8 @@ For an applied example of this workflow under time pressure see the [72-Hour Rec
 - Planet Labs / SkySat tasking product pages
 - Maxar imagery catalogue
 - SunCalc reference (suncalc.org)
+---
+
+**Mastodon cross-posts**:
+- News thread: [@true_me_news](https://mastodon.social/@true_me_news)
+- Methodology notes: [@ocsav34567](https://mastodon.social/@ocsav34567)

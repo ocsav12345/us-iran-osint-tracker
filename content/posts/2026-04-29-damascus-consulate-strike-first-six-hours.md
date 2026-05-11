@@ -53,3 +53,8 @@ We will update this log as the next windows close. For the rolling working notes
 - BBC News, 2024-04-01 evening
 - Mapillary panoramas, Mezzeh district
 - Sentinel-2 tile `36SXC` (planned)
+---
+
+**Mastodon cross-posts**:
+- News thread: [@true_me_news](https://mastodon.social/@true_me_news)
+- Methodology notes: [@ocsav34567](https://mastodon.social/@ocsav34567)
